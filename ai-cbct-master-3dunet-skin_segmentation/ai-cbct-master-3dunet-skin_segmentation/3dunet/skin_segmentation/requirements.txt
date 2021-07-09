@@ -1,0 +1,15 @@
+dask
+h5py
+hdbscan
+jupyterlab
+matplotlib
+numpy==1.20.*
+pillow
+pytest
+pyyaml
+scikit-image
+scikit-learn
+simpleitk
+tensorboardX
+torch==1.8.*
+torchvision
